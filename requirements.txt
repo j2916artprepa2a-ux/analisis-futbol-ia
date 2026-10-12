@@ -1,0 +1,13 @@
+sports @ git+https://github.com/roboflow/sports.git
+supervision>=0.25.0
+ultralytics
+gdown
+gradio>=4.0
+opencv-python
+numpy
+tqdm
+transformers
+umap-learn
+scikit-learn
+sentencepiece
+protobuf
