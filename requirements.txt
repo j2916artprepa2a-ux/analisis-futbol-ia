@@ -11,3 +11,5 @@ umap-learn
 scikit-learn
 sentencepiece
 protobuf
+fastapi
+uvicorn

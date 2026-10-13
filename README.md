@@ -16,6 +16,17 @@ Subes un clip de un partido y te regresa:
 2. Toca el ▶️ del cuadro **"TOCA AQUÍ PARA INICIAR LA APP"** y espera unos 3 minutos.
 3. Toca el botón verde **ABRIR LA APP**. Funciona desde el celular.
 
+## 📱 Radar en vivo sobre cualquier app (Android)
+
+Una burbuja flotante que analiza el partido que estás viendo (TikTok, YouTube, etc.) y te pone encima el radar, la posesión y una marca en cada jugador.
+
+1. Descarga la app en tu Android: **[RadarFutbol.apk](https://github.com/j2916artprepa2a-ux/analisis-futbol-ia/releases/latest/download/RadarFutbol.apk)**
+2. Abre Colab (botón de arriba) y toca ▶️ en **RADAR EN VIVO**. Copia el link que te da.
+3. En la app: pega el link, toca **Iniciar radar** y acepta los permisos.
+4. Abre el partido y toca la burbuja verde para prender o apagar el radar.
+
+La app solo captura la pantalla y la manda al "cerebro" en Colab, que corre la IA con GPU. Va con unos segundos de retraso. Las apps de paga que bloquean capturas (Netflix, ViX, etc.) se ven en negro y no se pueden analizar.
+
 ## Cómo funciona
 
 | Paso | Qué hace | Herramienta |
