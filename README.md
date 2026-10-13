@@ -13,8 +13,8 @@ Subes un clip de un partido y te regresa:
 ## Cómo usarlo (sin instalar nada)
 
 1. Dale clic al botón **Abrir en Colab** de arriba.
-2. En Colab: *Entorno de ejecución → Cambiar tipo de entorno → GPU T4*.
-3. Corre las celdas en orden. La **Opción A** te da un link para usar la app desde el celular.
+2. Toca el ▶️ del cuadro **"TOCA AQUÍ PARA INICIAR LA APP"** y espera unos 3 minutos.
+3. Toca el botón verde **ABRIR LA APP**. Funciona desde el celular.
 
 ## Cómo funciona
 
